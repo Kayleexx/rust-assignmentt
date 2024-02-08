@@ -1,0 +1,6 @@
+[submodule "common_prefix"]
+	path = common_prefix
+	url = https://github.com/Kayleexx/rust-assignment.git
+[submodule "first_occurence"]
+	path = first_occurence
+	url = https://github.com/Kayleexx/rust-assignment.git
